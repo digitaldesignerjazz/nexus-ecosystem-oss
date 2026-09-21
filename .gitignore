@@ -1,0 +1,19 @@
+# secrets and live state
+**/.env
+**/tailscale.env
+**/netbird.env
+**/*.pem
+**/*.key
+**/kyber*.json
+ai_agents/
+**/mempool/
+**/receipts/
+**/qnet/ledger.json
+**/logs/
+**/identity.json
+**/pulse.json
+**/peers.json
+target/
+__pycache__/
+*.pyc
+.DS_Store
